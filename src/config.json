@@ -1,5 +1,5 @@
 {
-  "DESIGN_NAME": "pm32",
+  "DESIGN_NAME": "tt_um_pm32_MGS",
   "VERILOG_FILES": ["dir::pm32.v", "dir::spm.v"],
   "CLOCK_PERIOD": 25,
   "CLOCK_PORT": "clk",
