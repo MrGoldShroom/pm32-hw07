@@ -5,7 +5,7 @@
 `timescale		    1ns/1ps
 `default_nettype    none
 
-module pm32 (
+module tt_um_pm32_MGS (
     input wire          clk,
     input wire          rst,
     input wire          start,
